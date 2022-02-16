@@ -1,4 +1,4 @@
--- REFERENSI PHYTON --
+-- REFERENSI PYTHON --
 
 [1] Python 3.8.8 Documentation. Tersedia:
 https://docs.python.org/3.8/tutorial/index.html
