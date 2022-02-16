@@ -1,0 +1,34 @@
+-- REFERENSI PHYTON --
+
+[1] Python 3.8.8 Documentation. Tersedia:
+https://docs.python.org/3.8/tutorial/index.html
+
+[2] Python PEP 008 - Style Guide for Python Code. Tersedia:
+https://www.python.org/dev/peps/pep-0008/
+
+[3] PEP 257 - Docstring Conventions. Tersedia:
+https://www.python.org/dev/peps/pep-0257/
+
+[4] Pengantar Informal tentang Python. Tersedia:
+https://docs.python.org/id/3.8/tutorial/introduction.html
+
+[5] Tipe Bawaan pada Python. Tersedia:
+https://docs.python.org/id/3.8/library/stdtypes.html
+
+[6] Data Model pada Python. Tersedia:
+https://docs.python.org/id/3.8/reference/datamodel.html#the-standard-type-hierarchy
+
+[7] Format String Syntax. Tersedia:
+https://docs.python.org/id/3.8/library/string.html#format-string-syntax
+
+[8] Literals. Tersedia:
+https://docs.python.org/3/reference/lexical_analysis.html#literals
+
+[9] Al Sweigart, “Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners”. 2019. No Starch Press. Chapter 4 dan Chapter 6. Tersedia:
+https://automatetheboringstuff.com/2e
+
+[10] Jakub Przywóski, Python Reference  (The Right Way). Tersedia:
+https://python-reference.readthedocs.io/en/latest/docs/str/
+
+[11] W3schools Python Tutorial. Tersedia:
+https://www.w3schools.com/python
